@@ -2,8 +2,8 @@ from cerver.utils import LOG_TYPE_NONE, cerver_log_both
 
 SERVICE_VERSION = "0.1"
 SERVICE_VERSION_NAME = "Version 0.1"
-SERVICE_VERSION_DATE = "01/09/2021"
-SERVICE_VERSION_TIME = "23:57 CST"
+SERVICE_VERSION_DATE = "03/09/2021"
+SERVICE_VERSION_TIME = "05:25 CST"
 SERVICE_VERSION_AUTHOR = "Erick Salas"
 
 def service_version_print_full ():
